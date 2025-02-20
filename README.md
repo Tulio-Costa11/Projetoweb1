@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Tulio Costa
+Matricula: 891914
 
-## Tela de inspeção com navegador
+## Tela de inspeção com navegador![alt text](<Captura de tela 2025-02-18 182443.png>)
 
 
-## Tela de projeto no Replit
+## Tela de projeto no Replit![alt text](<Captura de tela 2025-02-18 180451.png>)
+ 
 
